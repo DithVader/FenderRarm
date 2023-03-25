@@ -5,8 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/FenderRarm/FenderRarm/Content/StarterContent/Props/MaterialSphere.uasset",
-				"D:/FenderRarm/FenderRarm/Content/InSpace.umap"
+				"D:/FenderRarm/FenderRarm/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/FenderRarm/FenderRarm/Content/newmat.uasset",
+				"D:/FenderRarm/FenderRarm/Content/EarthTextures/Blue_Haze.uasset",
+				"D:/FenderRarm/FenderRarm/Content/EarthTextures/Earth_Clouds_6K.uasset",
+				"D:/FenderRarm/FenderRarm/Content/EarthTextures/Earth_Diffuse_6K.uasset",
+				"D:/FenderRarm/FenderRarm/Content/EarthTextures/Earth_Glossiness_6K.uasset",
+				"D:/FenderRarm/FenderRarm/Content/EarthTextures/Earth_Illumination_6K.uasset",
+				"D:/FenderRarm/FenderRarm/Content/EarthTextures/Planet_4K.uasset",
+				"D:/FenderRarm/FenderRarm/Content/EarthTextures/Earth_NormalNRM_6K.uasset",
+				"D:/FenderRarm/FenderRarm/Content/EarthTextures/Stars_1K.uasset",
+				"D:/FenderRarm/FenderRarm/Content/Space.umap",
+				"D:/FenderRarm/FenderRarm/Content/_GENERATED/adith/Sphere_7F75DFE6.uasset"
 			]
 		}
 	]
